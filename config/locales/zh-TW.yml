@@ -14,11 +14,11 @@ zh-TW:
   label_risk_status_open: 開啟
   label_risk_status_closed: 關閉
   label_risk_status_rejected: 駁回
-  label_risk_probability_unlikely: 風險機率不大
-  label_risk_probability_low: 風險機率低
-  label_risk_probability_medium: 風險機率中等
-  label_risk_probability_high: 風險機率高
-  label_risk_probability_expected: 預期風險機率
+  label_risk_probability_unlikely: 不大
+  label_risk_probability_low: 低
+  label_risk_probability_medium: 中等
+  label_risk_probability_high: 高
+  label_risk_probability_expected: 預期
   label_risk_impact_negligible: 可忽略
   label_risk_impact_minor: 較小
   label_risk_impact_moderate: 中等
@@ -31,7 +31,7 @@ zh-TW:
   label_risk_strategy_accept: 接受
   label_risk_strategy_mitigate: 減輕
   label_risk_strategy_transfer: 轉移
-  label_risk_strategy_eliminate: 轉移
+  label_risk_strategy_eliminate: 排除
   default_risk_category_internal: 內部
   default_risk_category_external: 外部
   default_risk_category_technical: 技術性
