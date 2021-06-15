@@ -22,7 +22,7 @@ zh-TW:
   label_risk_impact_negligible: 可忽略
   label_risk_impact_minor: 較小
   label_risk_impact_moderate: 中等
-  label_risk_impact_significant: :重大
+  label_risk_impact_significant: 重大
   label_risk_impact_severe: 嚴重
   label_risk_level_low: 低
   label_risk_level_medium: 中等
